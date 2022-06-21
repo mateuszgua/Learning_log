@@ -1,6 +1,7 @@
 # Project Name
 > Web application for registration users and add new posts.
-> Link in heroku:https://learning-log-mg.herokuapp.com/
+> 
+> Link in heroku: https://learning-log-mg.herokuapp.com/
 
 ## Table of Contents
 * [General Info](#general-information)
